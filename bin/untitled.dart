@@ -15,6 +15,7 @@ ArgParser buildParser() {
       abbr: 'v',
       negatable: false,
       help: 'Show additional command output.',
+      // this the coment
     )
     ..addFlag(
       'version',
